@@ -17,7 +17,7 @@
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>htmlpublisher</artifactId>
     <packaging>hpi</packaging>
-    <version>1.4-h-1</version>
+    <version>1.4-h-2-SNAPSHOT</version>
     <name>HTML Publisher plugin</name>
     <url>http://wiki.hudson-ci.org/display/HUDSON/HTML+Publisher+Plugin</url>
     <developers>
